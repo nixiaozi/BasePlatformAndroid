@@ -1,0 +1,4 @@
+#Wed Jan 03 12:04:56 CST 2018
+base.0=E\:\\InoicProject\\MyGitTestApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+renamed.0=classes.dex
+file.0=E\:\\InoicProject\\MyGitTestApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8\\classes.dex
